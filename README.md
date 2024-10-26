@@ -6,3 +6,8 @@ Pythonを使ったWebSocketサーバのテストです。
 ```sh
 uv sync
 ```
+
+# run
+```sh
+uv run main.py
+```
